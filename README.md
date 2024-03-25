@@ -1,1 +1,1 @@
-# PT2023_30228_Butuza_Maria_Assignment_1
+The "Polynomial Calculator" project is a Java-based application designed to perform  mathematical operations on polynomials. This versatile tool allows users to input two polynomials and then performs operations such as addition, subtraction, multiplication, differentiation, and integration on them. The core objective of the project is to provide a user-friendly interface that simplifies the complex calculations involved in polynomial mathematics.
